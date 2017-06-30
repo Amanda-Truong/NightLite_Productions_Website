@@ -1,0 +1,56 @@
+*{
+  color: white;
+  background: MidnightBlue;
+
+}
+head {
+
+}
+
+h1{
+  color: yellow;
+  font-family: Papyrus;
+  font-size: 48px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+h3 {
+  font-family: Helvestica
+  position: relative;
+  text-align: center;
+  font-size: 28px;
+}
+h2{
+  font-family: Papyrus;
+  font-size: 36px;
+  position: relative;
+  text-align: center;
+}
+fal-head{
+  font-family: Papyrus;
+  font-size: 30px;
+  color: Violet;
+}
+latte-head{
+  font-family: Papyrus;
+  font-size: 30px;
+  color: Pink;
+}
+lgend-head{
+  font-family: Papyrus;
+  font-size: 30px;
+  color: Crimson;
+}
+p {
+  font-family: Helvestica;
+  font-size: 24px;
+  margin-left: 2;
+}
+li{
+  font-size: 20px;
+}
+a {
+  font-size: 20px;
+  color: Aqua;
+}
