@@ -1,6 +1,6 @@
 *{
   color: white;
-  background: MidnightBlue;
+  background: rgb(22,18,62);
 
 }
 head {
@@ -8,12 +8,13 @@ head {
 }
 
 h1{
-  color: yellow;
+  color: rgb(246,252,113);
   font-family: Papyrus;
   font-size: 48px;
   position: relative;
   text-align: center;
-  text-decoration: underline;
+  text-decoration: bold;
+  text-decoration-color: rgb(254,197,143);
 }
 h3 {
   font-family: Helvestica
@@ -26,31 +27,37 @@ h2{
   font-size: 36px;
   position: relative;
   text-align: center;
+  text-decoration: underline;
+  color: rgb(206,167,219);
+
 }
 fal-head{
   font-family: Papyrus;
   font-size: 30px;
-  color: Violet;
+  color: rgb(169,61,220);
+  text-decoration: bold;
 }
 latte-head{
   font-family: Papyrus;
   font-size: 30px;
-  color: Pink;
+  color: rgb(255,121,173);
+  text-decoration: bold;
 }
 lgend-head{
   font-family: Papyrus;
   font-size: 30px;
-  color: Crimson;
+  color: rgb(255,35,24);
+  text-decoration: bold;
 }
 p {
   font-family: Helvestica;
   font-size: 24px;
-  margin-left: 2;
+  text-indent: 2;
 }
 li{
   font-size: 20px;
 }
 a {
   font-size: 20px;
-  color: Aqua;
+  color: rgb(55,134,181);
 }
